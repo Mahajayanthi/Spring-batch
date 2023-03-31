@@ -1,0 +1,31 @@
+id ,firstname,lastname,email,gender,contactno,country,dob
+1 ,maha,mothilal , maha@stgit.com,female, 9790950995,tamilnadu,13-08-1999
+2 ,jayu,ramalingam ,jayu@stgit.com,female,  9790950995,salem,27-01-1998
+3 ,  usha,naidu ,usha@stgit.com,female,  9790950995,vishakapatnam,29-09-1999
+4 ,jenni,john ,jenni@stgit.com,female,  9790950995,erode,24-04-1995
+5, juju,baskaran, juju@stgit.com,female,9790789666,trichy,18-09-1997
+6 ,maha,mothilal , maha@stgit.com,female,  9790950995,tamilnadu,13-08-1999
+7 ,jayu,ramalingam , jayu@stgit.com,female,  9790950995,salem,27-01-1998
+8 ,  usha,naidu , usha@stgit.com,female,  9790950995,vishakapatnam,29-09-1999
+9 ,jenni,john , jenni@stgit.com,female,  9790950995,erode,24-04-1995
+10, juju,baskaran, juju@stgit.com,female,9790789666,trichy,18-09-1997
+11,maha,mothilal , maha@stgit.com,female,  9790950995,tamilnadu,13-08-1999
+12 ,jayu,ramalingam ,jayu@stgit.com,female,  9790950995,salem,27-01-1998
+13 ,  usha,naidu , usha@stgit.com,female,  9790950995,vishakapatnam,29-09-1999
+14 ,jenni,john ,jenni@stgit.com,female,  9790950995,erode,24-04-1995
+15, juju,baskaran, juju@stgit.com,female,9790789666,trichy,18-09-1997
+16 ,maha,mothilal , maha@stgit.com,female,  9790950995,tamilnadu,13-08-1999
+17,jayu,ramalingam ,jayu@stgit.com,female,  9790950995,salem,27-01-1998
+18 ,  usha,naidu ,usha@stgit.com,female,  9790950995,vishakapatnam,29-09-1999
+19 ,jenni,john ,jenni@stgit.com,female,  9790950995,erode,24-04-1995
+20, juju,baskaran,juju@stgit.com,female,9790789666,trichy,18-09-1997
+21 ,maha,mothilal ,maha@stgit,com,female,  9790950995,tamilnadu,13-08-1999
+22 ,jayu,ramalingam ,jayu@stgit.com,female,  9790950995,salem,27-01-1998
+23 ,  usha,naidu ,usha@stgit.com,female,  9790950995,vishakapatnam,29-09-1999
+24 ,jenni,john ,jenni@stgit.com,female,  9790950995,erode,24-04-1995
+25, juju,baskaran,juju@stgit.com,female,9790789666,trichy,18-09-1997
+26 ,maha,mothilal ,maha@stgit.com,female,  9790950995,tamilnadu,13-08-1999
+27 ,jayu,ramalingam ,jayu@stgit.com,female,  9790950995,salem,27-01-1998
+28 ,  usha,naidu ,ush@stgit.com,female,  9790950995,vishakapatnam,29-09-1999
+29 ,jenni,john ,jenni@stgit.com,female,  9790950995,erode,24-04-1995
+30, juju,baskaran,juju@stgit.com,female,9790789666,trichy,18-09-1997
